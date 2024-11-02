@@ -58,8 +58,7 @@
 }
 
 .cover_title {
-  margin: 165px auto 135px;
-  width: 1100px;
+  margin: 165px 50px 135px 50px;
   font-size: 100px;
   font-weight: bold;
   line-height: 115px;
@@ -69,7 +68,6 @@
 
 .aligned-text {
   display: block;
-  margin-left: 50px;
 }
 
 .letter-spacing-extended {
@@ -83,13 +81,11 @@
 .aligned-text-center {
   text-align: center;
   line-height: 140px;
-  margin-right: 50px;
 }
 
 .aligned-text-right {
   text-align: right;
   line-height: 100px;
-  margin-right: 50px;
 }
 
 .cover__description {
@@ -115,6 +111,7 @@
   color: white;
   background-color: transparent;
   text-transform: uppercase;
+  border-style: solid;
   border-color: white;
   border-width: 1px;
   width: 256px;
